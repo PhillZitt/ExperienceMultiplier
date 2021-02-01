@@ -10,3 +10,9 @@ D:\Games\SDV\Mods\ExperienceMultiplier\Code\ExperienceMultiplier\obj\Debug\Exper
 D:\Games\SDV\Mods\ExperienceMultiplier\Code\ExperienceMultiplier\obj\Debug\ExperienceMultiplier.pdb
 D:\Games\SDV\Mods\ExperienceMultiplier\Code\ExperienceMultiplier\bin\Debug\Mono.Cecil.dll
 D:\Games\SDV\Mods\ExperienceMultiplier\Code\ExperienceMultiplier\obj\Debug\ExperienceMultiplier.csprojAssemblyReference.cache
+C:\Users\Duno\Source\Repos\ExperienceMultiplier\bin\Debug\ExperienceMultiplier.dll
+C:\Users\Duno\Source\Repos\ExperienceMultiplier\bin\Debug\ExperienceMultiplier.pdb
+C:\Users\Duno\Source\Repos\ExperienceMultiplier\obj\Debug\ExperienceMultiplier.csprojAssemblyReference.cache
+C:\Users\Duno\Source\Repos\ExperienceMultiplier\obj\Debug\ExperienceMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Duno\Source\Repos\ExperienceMultiplier\obj\Debug\ExperienceMultiplier.dll
+C:\Users\Duno\Source\Repos\ExperienceMultiplier\obj\Debug\ExperienceMultiplier.pdb
